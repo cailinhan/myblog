@@ -9,7 +9,7 @@ summary: 你好！GitBlog
 -->
 创建表空间
 ```
-create tablespace tahoe_data  
+create tablespace my_data  
 datafile 'my_data.dbf' 
 size 100m  
 autoextend on  
@@ -18,7 +18,7 @@ extent management local;
 ```
 创建临时表空间
 ```
-create temporary tablespace tahoe_temp  
+create temporary tablespace my_temp  
 tempfile 'my_temp.dbf' 
 size 100m  
 autoextend on  
