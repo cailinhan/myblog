@@ -1,14 +1,12 @@
 <!--
-author: jockchou
-date: 2015-07-30
-title: Hello World!
-tags: GitBlog
-category: GitBlog
+author: cailinhan
+date: 2016-04-06
+title: java数组
+tags: java
+category: java
 status: publish
 summary: 你好！GitBlog
 -->
-
-#  java数组
 
 >学习Java的数组
 
@@ -42,4 +40,6 @@ for(int i : arrayb){
 ```
 
 数组在初始化的时候分配堆内存
-![Alt text](./img.jpeg "Optional title")
+
+测试图片
+![Alt text](http://7xsotn.com2.z0.glb.clouddn.com/test1.jpeg "Optional title")

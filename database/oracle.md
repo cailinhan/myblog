@@ -31,3 +31,7 @@ create user linhan identified by "123456"
 default tablespace my_data  
 temporary tablespace my_temp;
 ```
+授权
+```
+grant connect,resource,dba to tahoe;
+```
